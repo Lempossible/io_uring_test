@@ -6,5 +6,6 @@ sudo dnf install -y liburing-devel
 
 # compile
 gcc echo_server.c -o server -luring
+
 gcc echo_client.c -o client -luring
 
