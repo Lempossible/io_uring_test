@@ -1,7 +1,7 @@
 # io_uring_test
 this is a  example of how to use io_uring
 
-# prepare
+# prerequisite
 sudo dnf install -y liburing-devel
 
 # compile
